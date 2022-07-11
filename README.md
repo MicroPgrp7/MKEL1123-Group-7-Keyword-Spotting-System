@@ -66,7 +66,7 @@ Data that were used to train the Word Classifying Model were obtained from [Goog
 In the Keys tab in the dashboard, the API key of our project can be obtained. This API is used for uploading of the training data to Edge Impulse. After having the dataset, data curation is done to: <br />
 - mix the prepared samples with background noise
 - split the data samples into test set and train set
-- upload into Edge Impulse project This can be done by using this Google Colab file.
+- upload into Edge Impulse project. This can be done by using this Google Colab file.
 ![image](https://user-images.githubusercontent.com/105091269/178146193-180d3193-3a7c-4cd4-aa6c-ae9a59f8eb6a.png)<br />
 ![image](https://user-images.githubusercontent.com/105091269/178145753-9bfde174-2be7-4f8c-b84a-7b8c7d3f5302.png)<br />
 ### 4.2 Feature Extraction & Model Training
