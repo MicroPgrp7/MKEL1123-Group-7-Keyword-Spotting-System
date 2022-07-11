@@ -1,5 +1,5 @@
 # Keyword Spotting with Edge Impulse based STM32 Microcontroller #
-|  Team Member  |  MatrixNumber |
+|  Team Member  | Matrix Number |
 | ------------- | ------------- |
 | Ooi Jia Fu    |   MKE211095   |
 | Chiam Cin Ni  |   MKE211092   |
@@ -51,7 +51,7 @@ Table 3.1.2 Connection between Amplifier with STM32 board
 | PB4            |   DIN            |
 
 Table 3.1.3 Connection between LED with STM32 board
-|  PIN on STM32  | PIN on Microphone|
+|  PIN on STM32  |    PIN on LED    |
 | -------------  | -----------------|
 | PA0            |   LED1           |
 | PB6            |   LED2           |
