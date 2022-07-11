@@ -117,8 +117,8 @@ This is to ensure that the model_variables.h is using. The data of audio had bee
 
 ## 7.0 Git Clone
 To clone this Keyword Spotting project. Need use:<br />
-git clone  <br />
-![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png)
+git clone https://github.com/MicroPgrp7/MKEL1123-Group-7-Keyword-Spotting-System.git <br />
+![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png) <br />
 The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository.
 
 
