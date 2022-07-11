@@ -135,8 +135,8 @@ in Windows Powershell terminal (in administrator mode)
 The figures above shown project repository cloned in Windows OS and Ubuntu OS successfully respectively.
 
 **The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository and user can extract this file to build the project.** <br/>
-Details of how to initialize Git in Windows OS can refer to reference links (No.6).
 
+Details of how to initialize Git in Windows OS can refer to reference links (No.6).
 
 ## 8.0 Reference Links
 1. [STM32-Keyword-Spotting-with-Edge-Impulse](https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse)
