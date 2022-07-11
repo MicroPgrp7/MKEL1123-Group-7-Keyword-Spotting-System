@@ -128,4 +128,4 @@ The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided insi
 3. [How to Get I2S working on an STM32 MCU](https://medium.com/@davidramsay/how-to-get-i2s-working-on-an-stm32-mcu-33de0e9c9ff8)
 4. [Arm Based Implementation of Speech Controlled Wheelchair](https://github.com/Eddy960/Advanced-Microprocessor-System-Project/tree/main/M5_KWS_Wheelchair)
 5. [Cube.MX CMSIS-PACK](https://docs.edgeimpulse.com/docs/deployment/using-cubeai)
-6. 
+6. [Git Usage in Windows](https://phoenixnap.com/kb/how-to-install-git-windows)
