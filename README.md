@@ -132,7 +132,7 @@ in Windows Powershell terminal (in administrator mode)
 The figures shown project repository cloned in Windows OS and Ubuntu OS successfully respectively.
 
 The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository. <br/>
-Details of how to initialize Git in Windows OS can refer to reference links (No.8).
+Details of how to initialize Git in Windows OS can refer to reference links (No.6).
 
 
 ## 8.0 Reference Links
