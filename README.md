@@ -116,8 +116,10 @@ This is to ensure that the model_variables.h is using. The data of audio had bee
 ![image](https://user-images.githubusercontent.com/105091269/178150602-2cb1e950-db9a-4136-b3a1-63881230c8da.png)<br />
 
 ## 7.0 Git Clone
-To clone this Keyword Spotting project.<br />
-git clone https://github.com/MicroPgrp7/MKEL1123-Group-7-Keyword-Spotting-System.git <br />
+To clone this Keyword Spotting project. Need use:<br />
+git clone  <br />
+![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png)
+
 
 ## 8.0 Reference Links
 1. [STM32-Keyword-Spotting-with-Edge-Impulse](https://github.com/smlee00/STM32-Keyword-Spotting-with-Edge-Impulse)
