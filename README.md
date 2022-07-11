@@ -83,6 +83,8 @@ To export the model, we go to the testing and deployment tab. Impulses can be de
 ## 5.0 Integrating into STM project & Setup STM32CubeIDE
 The CMSIS edge impulse software pack had been inserted by following this:https://docs.edgeimpulse.com/docs/deployment/using-cubeai<br />
 ![image](https://user-images.githubusercontent.com/105091269/178149734-62ec7276-a263-4e30-a854-14b26841868e.png)<br />
+Next, go Project > Properties > C/C++ General > Paths and Symbols and the paths to Edge Impulse library are added. After adding this path, we are ready to integrate the word classifier in the main code.
+![image](https://user-images.githubusercontent.com/105091269/178206205-17dbb663-76e2-4c42-89ed-a464deb7e56a.png)
 
 The edge-impulse-sdk , model-parameters, tflite-model was inserted as shown as below figure.<br />
 ![image](https://user-images.githubusercontent.com/105091269/178149784-1e7e07cc-14fc-4083-a530-c74fcc3d16c6.png)<br />
