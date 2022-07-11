@@ -119,6 +119,7 @@ This is to ensure that the model_variables.h is using. The data of audio had bee
 To clone this Keyword Spotting project. Need use:<br />
 git clone  <br />
 ![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png)
+The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository.
 
 
 ## 8.0 Reference Links
@@ -127,3 +128,4 @@ git clone  <br />
 3. [How to Get I2S working on an STM32 MCU](https://medium.com/@davidramsay/how-to-get-i2s-working-on-an-stm32-mcu-33de0e9c9ff8)
 4. [Arm Based Implementation of Speech Controlled Wheelchair](https://github.com/Eddy960/Advanced-Microprocessor-System-Project/tree/main/M5_KWS_Wheelchair)
 5. [Cube.MX CMSIS-PACK](https://docs.edgeimpulse.com/docs/deployment/using-cubeai)
+6. 
