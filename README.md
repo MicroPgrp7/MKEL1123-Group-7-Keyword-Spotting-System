@@ -116,10 +116,13 @@ This is to ensure that the model_variables.h is using. The data of audio had bee
 ![image](https://user-images.githubusercontent.com/105091269/178150602-2cb1e950-db9a-4136-b3a1-63881230c8da.png)<br />
 
 ## 7.0 Git Clone
-To clone this Keyword Spotting project. Need use:<br />
+If want to clone this Keyword Spotting project, may use this command :<br />
+
 git clone https://github.com/MicroPgrp7/MKEL1123-Group-7-Keyword-Spotting-System.git <br />
+
 ![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png) <br />
-The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository.
+The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository - to 
+Details of how to initialize Git (in Windows OS) can refer to reference links (No.8).
 
 
 ## 8.0 Reference Links
@@ -128,4 +131,4 @@ The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided insi
 3. [How to Get I2S working on an STM32 MCU](https://medium.com/@davidramsay/how-to-get-i2s-working-on-an-stm32-mcu-33de0e9c9ff8)
 4. [Arm Based Implementation of Speech Controlled Wheelchair](https://github.com/Eddy960/Advanced-Microprocessor-System-Project/tree/main/M5_KWS_Wheelchair)
 5. [Cube.MX CMSIS-PACK](https://docs.edgeimpulse.com/docs/deployment/using-cubeai)
-6. [Git Usage in Windows](https://phoenixnap.com/kb/how-to-install-git-windows)
+6. [Git Usage in Windows OS](https://phoenixnap.com/kb/how-to-install-git-windows)
