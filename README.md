@@ -121,6 +121,8 @@ If want to clone this Keyword Spotting project, may use this command :<br />
 git clone https://github.com/MicroPgrp7/MKEL1123-Group-7-Keyword-Spotting-System.git <br />
 
 ![image](https://user-images.githubusercontent.com/105091269/178185648-b7d10344-f098-4ddc-9843-5c1d2b51a5b4.png) <br />
+![image](https://user-images.githubusercontent.com/105091269/178192624-15f186fb-0cde-4757-8241-d359b100a6e4.png)
+
 The .zip file format of this project (nucleo-f446-ei-kws.zip) also provided inside this repository - to 
 Details of how to initialize Git (in Windows OS) can refer to reference links (No.8).
 
