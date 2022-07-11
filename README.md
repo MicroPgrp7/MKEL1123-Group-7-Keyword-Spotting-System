@@ -50,6 +50,13 @@ Table 3.1.2 Connection between Amplifier with STM32 board
 | 5V             |   Vin            |
 | PB4            |   DIN            |
 
+Table 3.1.3 Connection between LED with STM32 board
+|  PIN on STM32  | PIN on Microphone|
+| -------------  | -----------------|
+| PA0            |   LED1           |
+| PB6            |   LED2           |
+| PB7            |   LED3           |
+
 ## 4.0 Setting up Edge Impulse 
 In this porject, Edge Impulse is used to train our desired model to be integrated into our STM32 project. It is a great platform that allows user to train machine learning model for embedded systems. An account was signed up and a project is created. <br />
 ### 4.1 Data prepareation & Data Curation
@@ -107,7 +114,6 @@ We include the header file of ei_run_classifier.h in the main.cpp. The main func
 
 This is to ensure that the model_variables.h is using. The data of audio had been store in this file.<br />
 ![image](https://user-images.githubusercontent.com/105091269/178150602-2cb1e950-db9a-4136-b3a1-63881230c8da.png)<br />
-
 
 ## 7.0 Git Clone
 To clone this Keyword Spotting project.<br />
