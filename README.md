@@ -2,9 +2,10 @@
 
 |  Team Member  | Matrix Number |
 | ------------- | ------------- |
+| How Jia Tong  |   MKE211086   |
 | Ooi Jia Fu    |   MKE211095   |
 | Chiam Cin Ni  |   MKE211092   |
-| How Jia Tong  |   MKE211086   |
+
 
 ## 1.0 Previous Milestones
 1. [Milestone 1: Blink LED](https://github.com/MicroPgrp7/MKEL1123-Group-Project/tree/main/milestone1) 
